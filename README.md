@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Andrés y soy de Colombia, soy desarrollador de software y recientemente estoy enfocado en la Ciberseguridad.</h2>
+<h2 align="left">Hola 👋! Mi nombre es Andrés y soy de Colombia, soy desarrollador de software.</h2>
 
 ###
 
